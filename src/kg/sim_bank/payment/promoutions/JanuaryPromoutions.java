@@ -12,5 +12,10 @@ public class JanuaryPromoutions {
         System.out.println("January12345678 ");
         System.out.println("January123456789 ");
         System.out.println("January12345678910 ");
+
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+
     }
 }
